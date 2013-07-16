@@ -1,0 +1,16 @@
+Design Pattern Report Content
+=============================
+.Diagram
+.Discription about the problem that it solves
+.Alternative 
+  The alternative could be a different design pattern, a different language,
+  using dynamic programming etc.
+
+.Implementation code about the pattern (decent example)
+.Pros/Cons
+.properly preferrence
+
+
+Specific Design Patterns
+========================
+Flyweight (San), Singleton (Son), Builder (Nhan), Prototype (Thanh).
