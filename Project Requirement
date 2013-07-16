@@ -1,0 +1,37 @@
+Project Name
+============
+FUBAUnrealScript
+
+Project Language
+================
+Unreal Script
+
+Project Type
+============
+Real-Time Game
+
+Main Project Requirements
+=========================
+.Client-Server based like in Software architecture
+.Provide Chat, can use 2 server : 1 for game and 1 for chat run seperately. we can start
+both server when run the project
+.Random generate monster, 2 type: creep and boss
+.Do a shooting game, example like touhou shooting game
+.Each player have a unique character color which will immute(invulnerable) to the bullet
+with the same color
+.However they will take double damage to their oposite color. for example:
+ -White take double damage from Black
+ -Black take double damage from White
+ -Same go with Blue and Red
+ -A standard damage will be provided for others situation
+.Power Up is available (like in shooting game where you can eat PUp to upgrade gun)
+.However only player with the same color as the power up can eat them. Player who doesn't
+but happend to eat them does not have any power up come from it.
+.Player can attack with their natural color based on their character(100% damage) or
+a neutral colour which only have 50% damage
+.Can play in PVP or CO-Op
+.Each player have health, score seperately
+.Monsters have different points depend on their type
+.Game is played with mouse
+.Max power up is 6. 
+
